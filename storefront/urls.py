@@ -21,3 +21,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('playground/', include('playground.urls'))
 ]
+
+#rooms are not so superwised Here.
+
