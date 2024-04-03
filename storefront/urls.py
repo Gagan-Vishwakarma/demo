@@ -22,5 +22,4 @@ urlpatterns = [
     path('playground/', include('playground.urls'))
 ]
 
-#rooms are not so superwised Here.
 
